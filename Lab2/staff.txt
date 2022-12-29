@@ -1,0 +1,50 @@
+[{
+		"name": "Петр Ильич Андропов",
+		"birthday": "1987-12-31",
+		"snils": "123-567-12-12",
+		"admission_date": "2021-10-15",
+		"staff_schedule": [{
+				"position_name": "Руководитель отдела кадров",
+				"division_name": "Отдел кадров"
+			},
+			{
+				"position_name": "Заместитель бухгалтера",
+				"division_name": "Бухгалтерия"
+			},
+			{
+				"position_name": "Старший специалист",
+				"division_name": "Отдел кадров"
+			}
+		]
+	},
+	{
+		"name": "Елена Геннадьевна Волкова",
+		"birthday": "1990-08-22",
+		"snils": "234-134-23-14",
+		"admission_date": "2020-09-10",
+		"staff_schedule": [{
+				"position_name": "Главный бухгалтер",
+				"division_name": "Бухгалтерия"
+			},
+			{
+				"position_name": "Старший специалист",
+				"division_name": "Отдел кадров"
+			}
+		]
+	},
+	{
+		"name": "Ирина Викторовна Гончарова",
+		"birthday": "2000-04-06",
+		"snils": "908-145-13-89",
+		"admission_date": "2022-10-10",
+		"staff_schedule": [{
+				"position_name": "Заместитель бухгалтера",
+				"division_name": "Бухгалтерия"
+			},
+			{
+				"position_name": "Младший специалист",
+				"division_name": "Отдел кадров"
+			}
+		]
+	}
+]

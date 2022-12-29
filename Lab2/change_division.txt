@@ -1,0 +1,32 @@
+{
+    "name": "Отдел кадров",
+    "new_name": "HR-отдел",
+    "new_description": "Занимаеся менеджментом персонала, продвижением бренда работодателя",
+    "change_schedules": [
+        {
+            "position_name": "Руководитель отдела кадров",
+            "new_position_name": "HR head",
+            "new_position_rate": 0.9
+        },
+        {
+            "position_name": "Младший специалист",
+            "new_position_name": "junior HR",
+            "new_position_rate": 0.75
+        }
+    ],
+    "add_schedules" : [
+        {
+           "position_name": "Middle HR",
+           "position_rate": 1
+        },
+        {
+            "position_name": "Стажер",
+            "position_rate": 0.5
+        }
+    ],
+     "delete_schedules" : [
+        {
+           "position_name": "Старший специалист"
+        }
+     ]
+}

@@ -1,0 +1,38 @@
+[
+{
+    "name": "Отдел кадров",
+    "description": "Занимаеся подбором и контролем персонала",
+    "schedules": [
+        {
+            "position_name": "Руководитель отдела кадров",
+            "position_rate": 1
+        },
+        {
+            "position_name": "Младший специалист",
+            "position_rate": 0.25
+        },
+        {
+            "position_name": "Старший специалист",
+            "position_rate": 0.85
+        }
+    ]
+},
+{
+    "name": "Бухгалтерия",
+    "description": "Управление финансами, выплата зарплат",
+    "schedules": [
+        {
+            "position_name": "Главный бухгалтер",
+            "position_rate": 1
+        },
+        {
+            "position_name": "Заместитель бухгалтера",
+            "position_rate": 0.5
+        },
+        {
+            "position_name": "Бухгалтер",
+            "position_rate": 0.7
+        }
+    ]
+}
+]
